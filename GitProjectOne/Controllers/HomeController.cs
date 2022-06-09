@@ -30,7 +30,7 @@ namespace GitProjectOne.Controllers
         {
             return View();
         }
-
+        //This change sfrom server new test branch
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
