@@ -25,7 +25,7 @@ namespace GitProjectOne.Controllers
         {
             return View();
         }
-        //changes for merge
+        //changes for merge tset
         public IActionResult Privacy()
         {
             return View();
