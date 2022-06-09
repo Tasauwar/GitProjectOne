@@ -20,6 +20,7 @@ namespace GitProjectOne.Controllers
             _logger = logger;
         }
 
+        //first changes from server side.
         public IActionResult Index()
         {
             return View();
