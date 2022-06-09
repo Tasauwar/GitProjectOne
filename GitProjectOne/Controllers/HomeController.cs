@@ -13,6 +13,8 @@ namespace GitProjectOne.Controllers
     {
         private readonly ILogger<HomeController> _logger;
 
+
+        //Test changes for git suggstion
         public HomeController(ILogger<HomeController> logger)
         {
             _logger = logger;
